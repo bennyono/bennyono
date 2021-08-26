@@ -1,4 +1,5 @@
-- 🌱 I’m currently learning ... C# .NET development, SQL, Solidity, html/css/bootstrap, javascript
+- 🌱 I’m currently working with ... C# ASP.NET API (MVC with Entity Framework 6), MS SQL
+- I'm currently learning... Solidity, React.js (html/css, javascript), Python
 - 💞️ I’m looking to collaborate on ...Anything to learn and gain some experience!
 - 📫 How to reach me ...
 
